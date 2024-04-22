@@ -21,3 +21,5 @@ disable=raw-checker-failed,
 [REFACTORING]
 
 [DESIGN]
+
+max-args=4
