@@ -13,7 +13,7 @@ def luonti(mehua, olutta):
 
     print("Virhetilanteita: \nVarasto(-100.0);")
     huono = Varasto(-100.0)
-    print(huono)
+    print(huono)#llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
 
     print("Varasto(100.0, -50.7)")
     huono = Varasto(100.0, -50.7)
